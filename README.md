@@ -35,8 +35,8 @@ VoiceXChange is a modern, user-friendly web application that translates spoken l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/voicexchange.git
-   cd voicexchange
+   git clone https://github.com/AdarshXKumAR/AI-Voice-Translator.git
+   cd AI-Voice-Translator
    ```
 
 2. Create a virtual environment and install dependencies:
