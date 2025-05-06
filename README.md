@@ -1,4 +1,4 @@
-# VoiceXChange - AI Voice Translator
+# 🎙️ VoiceXChange - AI Voice Translator
 
 VoiceXChange is a modern, user-friendly web application that translates spoken language in real-time. It allows users to record their voice in one language and instantly get translations in multiple languages, complete with audio playback.
 
