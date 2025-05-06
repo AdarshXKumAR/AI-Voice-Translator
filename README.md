@@ -31,7 +31,7 @@ VoiceXChange is a modern, user-friendly web application that translates spoken l
 - API keys:
   - [AssemblyAI](https://www.assemblyai.com/) for speech recognition
 
-### Installation
+### 🔃 Installation
 
 1. Clone the repository:
    ```bash
